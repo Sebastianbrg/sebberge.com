@@ -1,4 +1,4 @@
 baseURL = "https://sebberge.com"
 languageCode = "en-us"
 title = "Sebberge.com"
-theme = "vex-hugo"
+theme = "ananke"
